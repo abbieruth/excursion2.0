@@ -23,7 +23,9 @@ h2 {
     font-size: 42px;
 }
 
-p {
+#plain-text {
     font-size: 21px;
     color: gray;
 }
+
+/*footer*/
